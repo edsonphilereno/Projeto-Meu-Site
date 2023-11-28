@@ -1,2 +1,2 @@
 # Projeto-Meu-Site
-Projetos Aula
+Desenvolvimento do site em HTML, CSS E JavaScript
